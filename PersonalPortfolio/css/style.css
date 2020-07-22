@@ -1,0 +1,56 @@
+#welcome-section {
+    text-align: center;
+    background-color: #212123;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#welcome-section .title {
+    color: white;
+}
+
+#welcome-section .subtitle {
+    color: #BE3144;
+}
+
+#projects {
+    text-align: center;
+    padding-top: 7em;
+}
+
+#contact {
+    text-align: center;
+}
+
+.navbar {
+    background-color: #BE3144;
+    height: 5em;
+}
+
+.navbar a {
+    color: white;
+    font-weight: bold;
+}
+
+.navbar-item {
+    font-size: 1.5em;
+}
+
+.navbar-menu {
+    padding-left: 1em;
+}
+
+.card-content .title {
+    text-align: center;
+}
+
+.code {
+    color: white;
+}
+
+.project:hover .code {
+    color: #BE3144;
+}
+
