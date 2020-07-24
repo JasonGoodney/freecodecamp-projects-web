@@ -24,7 +24,7 @@
     * [x] [Build a Technical Documentation Page](#technical-documentation-page)
     * [x] [Build a Personal Portiflio Webpage](#person-portfolio-webpage)
 * [ ] [Front End Libraries](#front-end-libraries)
-    * [ ] [Build a Random Quote Machine](#random-quote-machine)
+    * [x] [Build a Random Quote Machine](#random-quote-machine)
     * [ ] [Build a Markdown Previewer](#markdown-previewer)
     * [ ] [Build a Drum Machine](#drum-machine)
     * [ ] [Build a Calculator](#calculator)
@@ -78,7 +78,7 @@
 
 ### Random Quote Machine
 ##### [freeCodeCamp Objective](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine)
-<!-- ##### [My Solution]() -->
+##### [My Solution](https://wizardly-ritchie-fbe4ea.netlify.app/)
 
 ### Markdown Previewer
 ##### [freeCodeCamp Objective](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
