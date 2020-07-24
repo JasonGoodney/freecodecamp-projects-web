@@ -1,0 +1,73 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.Content {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+#quote {
+  font-size: calc(10px + 2vmin);
+}
+
+#quote-box {
+  width: 450px;
+  padding: 2em;
+  background-color: white;
+  color: #282c34;
+}
+
+#new-quote {
+  font-weight: bold;
+  background-color: #282c34;
+  color: white;
+  border: none;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+#tweet-quote {
+  background-color: #282c34;
+  color: white;
+  border: none;
+  padding: 12px;
+}
+
+.Rounded-corners {
+  border-radius: 5px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
