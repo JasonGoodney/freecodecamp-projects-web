@@ -86,7 +86,7 @@
 
 ### Drum Machine
 ##### [freeCodeCamp Objective](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-drum-machine)
-<!-- ##### [My Solution]() -->
+##### [My Solution](https://pedantic-davinci-6de4cd.netlify.app)
 
 ### Calculator
 ##### [freeCodeCamp Objective](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator)
