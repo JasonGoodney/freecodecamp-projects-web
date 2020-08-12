@@ -1,0 +1,60 @@
+:root {
+  --button-size: 70px;
+  --button-size-2x: 140px;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: #35363A;
+  width: 100vw;
+  height: 100vh;
+}
+
+.Calc-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  border: 5px solid black;
+  
+}
+
+button {
+  width: var(--button-size);
+  height: var(--button-size);
+  border: 1px solid black;
+  color: white;
+  background-color: cadetblue;
+  font-weight: 500;
+  font-size: 1.5em;
+}
+
+button:hover {
+  border: 1px solid white;
+  color: black;
+}
+
+.jumbo {
+  width: var(--button-size-2x);
+}
+
+#one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #zero, #decimal {
+  background-color: darkslateblue;
+}
+
+#clear {
+  background-color: crimson;
+}
+
+#equals {
+  height: var(--button-size-2x);
+  background-color: lightcoral;
+}
+
+#zero {
+  text-align: left;
+  padding-left: 15px;
+}
