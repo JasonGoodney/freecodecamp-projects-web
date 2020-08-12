@@ -26,7 +26,7 @@
 * [ ] [Front End Libraries](#front-end-libraries)
     * [x] [Build a Random Quote Machine](#random-quote-machine)
     * [x] [Build a Markdown Previewer](#markdown-previewer)
-    * [ ] [Build a Drum Machine](#drum-machine)
+    * [x] [Build a Drum Machine](#drum-machine)
     * [ ] [Build a Calculator](#calculator)
     * [ ] [Build a Pomodoro Clock](#pomodoro-clock)
 * [ ] [Data Visualization](#data-visualization-projects)
